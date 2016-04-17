@@ -1,0 +1,23 @@
+{
+  "name": "rexpress",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Waleed Ahmad <waleedgplus@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
