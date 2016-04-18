@@ -10,7 +10,6 @@ You must install  these dependencies globally before installation.
 ```
 $ npm intall
 $ webpack -p
-$ bower install
 ```
 
 # Configuration
